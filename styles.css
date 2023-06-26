@@ -16,7 +16,7 @@ img{
 	margin-right:auto;
 	padding:15px;
 }
-#btn
+.price
 {
 	width:100%;
 	height:20px;
@@ -28,4 +28,5 @@ img{
 #author
 {
 	color:#777777;
+	font-size:14px;
 }

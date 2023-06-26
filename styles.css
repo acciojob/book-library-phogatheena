@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.book-library
+{
+	background-color:#f8f8f8;
+}
+#btm
+{
+	width:100%;
+	height:20px;
+	padding:10px;
+	background-color:#ffffff;
+}
+img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	padding:15px;
+}
+#btn
+{
+	width:100%;
+	height:20px;
+	padding:10px;
+	background-color:#2ecc71;
+	text-align:center;
+	color:white;
+}
